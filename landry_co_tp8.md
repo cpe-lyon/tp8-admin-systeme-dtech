@@ -29,7 +29,7 @@ sur le client on créé une clé ssh avec:
 on valide les valeurs par defaut et on ajoute pas de passphrase.
 
 on l'envoi ensuite sur le serveur avec :
-`ssh-copy-id remote_username@server_ip_address`
+`ssh-copy-id remote_username@server_ip_address`<br>
 ici : `ssh-copy-id serveur@192.168.100.1`
 
 
