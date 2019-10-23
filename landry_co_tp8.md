@@ -1,6 +1,6 @@
 # Mot a définir 
 
-<b>Inventaire</b> : L'inventaire (latin inventus) est une liste exhaustive d'entités considérées comme un patrimoine ou une somme de biens, matériels ou immatériels, afin d'en faciliter l'évaluation ou la gestion. 
+<b>Inventaire</b> : L'inventaire est une liste exhaustive d'entités considérées comme un patrimoine ou une somme de biens, matériels ou immatériels, afin d'en faciliter l'évaluation ou la gestion. 
 
 <b>Module</b> : un plugin ou plug-in, aussi nommé module d'extension, module externe, greffon, plugiciel, ainsi que add-in ou add-on en France, est un paquet qui complète un logiciel hôte pour lui apporter de nouvelles fonctionnalités.
 
