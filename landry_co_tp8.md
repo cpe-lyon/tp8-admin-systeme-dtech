@@ -4,6 +4,11 @@
 
 <b>Module</b> : un plugin ou plug-in, aussi nommé module d'extension, module externe, greffon, plugiciel, ainsi que add-in ou add-on en France, est un paquet qui complète un logiciel hôte pour lui apporter de nouvelles fonctionnalités.
 
+<b>playbook</b> : Un playbook Ansible est un ensemble de scripts d'automatisation, appelés plays, qui définissent les tâches de gestion de configuration qu’Ansible doit réaliser sur une ou plusieurs machines. Les playbooks ne sont pas des fichiers texte standard, mais sont formatés en YAML. Il est possible de composer ses playbooks à partir de zéro, ou de récupérer certains modules pré-écrits, soit inclus dans le plateforme ou via sa communauté d'utilisateurs.
+
+<b>gestion de configuration</b> : La gestion de la configuration est souvent désignée comme le contrôle de version dans le développement logiciel mais la portée de la gestion de configuration est beaucoup plus large et le contrôle de version est seulement une partie de celui-ci.
+La gestion de configuration implique l'enregistrement de l'état et de modifications apportées aux éléments de configuration dans la configuration des bases de données de gestion et des systèmes de « Tickets ». Les derniers outils de gestion de configuration produisent automatiquement la configuration désirée de l'état en plus d'enregistrer les données de configuration. Cette capacité est appelée comme "infrastructure as code".
+
 # Exercice 2. Tâches à réaliser
 
 1. Si l’on n’est pas connecté à un noeud en tant que root, on aura besoin d’exécuter certaines commandes
