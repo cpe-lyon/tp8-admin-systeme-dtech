@@ -1,3 +1,8 @@
+Répartition du TP : 
+Mots a définir : lucas et franck
+Exercice 1 : lucas et franck
+Exercice 2 : Geoffrey et Landry
+
 # Mot a définir 
 
 <b>Inventaire</b> : L'inventaire est une liste exhaustive d'entités considérées comme un patrimoine ou une somme de biens, matériels ou immatériels, afin d'en faciliter l'évaluation ou la gestion. 
