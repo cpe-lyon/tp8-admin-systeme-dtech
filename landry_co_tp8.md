@@ -1,6 +1,6 @@
-Répartition du TP : 
-Mots a définir : lucas et franck
-Exercice 1 : lucas et franck
+Répartition du TP : <br>
+Mots a définir : lucas et franck<br>
+Exercice 1 : lucas et franck<br>
 Exercice 2 : Geoffrey et Landry
 
 # Mot a définir 
