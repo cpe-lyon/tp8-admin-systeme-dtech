@@ -9,6 +9,30 @@
 <b>gestion de configuration</b> : La gestion de la configuration est souvent désignée comme le contrôle de version dans le développement logiciel mais la portée de la gestion de configuration est beaucoup plus large et le contrôle de version est seulement une partie de celui-ci.
 La gestion de configuration implique l'enregistrement de l'état et de modifications apportées aux éléments de configuration dans la configuration des bases de données de gestion et des systèmes de « Tickets ». Les derniers outils de gestion de configuration produisent automatiquement la configuration désirée de l'état en plus d'enregistrer les données de configuration. Cette capacité est appelée comme "infrastructure as code".
 
+# Exercice 1
+
+On crée 2 machines virtuelles.
+On les relis par réseau interne avec virtual box.
+
+On installe ansible
+```
+sudo apt update
+sudo apt install software-properties-common
+sudo apt install ansible
+```
+en sudo su on modifie via nano <i>/etc/ansible/hosts</i> en lui ajoutant l'adresse ip du client.
+on ajoute au début de <i>/etc/hosts</i> l'adresse du client + node1 
+exemple : `192.168.100.2 node1`
+
+sur le client on créé une clé ssh avec:
+`ssh-keygen`
+on valide les valeurs par defaut et on ajoute pas de passphrase.
+
+on l'envoi ensuite sur le serveur avec :
+`ssh-copy-id remote_username@server_ip_address`
+ici : `ssh-copy-id serveur@192.168.100.1`
+
+
 # Exercice 2. Tâches à réaliser
 
 1. Si l’on n’est pas connecté à un noeud en tant que root, on aura besoin d’exécuter certaines commandes
